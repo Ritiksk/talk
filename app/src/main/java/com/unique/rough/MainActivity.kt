@@ -31,6 +31,8 @@ class MainActivity : AppCompatActivity() {
 
                 img.setImageURI(data?.data)
 
+                Toast.makeText(this,"jdskfjkdf",Toast.LENGTH_LONG).show()
+
             }
         }
     }
